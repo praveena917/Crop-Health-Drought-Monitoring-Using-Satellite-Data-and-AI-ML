@@ -230,12 +230,7 @@ Twenty observations were consistently identified as unusual across all three tes
 Crop Health Drought Monitoring/
 │
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── monthly/
-│
-├── notebooks/
-│
+│   
 ├── src/
 │   ├── gee_config.py
 │   ├── check_india_datasets.py
