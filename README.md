@@ -1,0 +1,1 @@
+# India-Wide-Crop-Health-Drought-Monitoring-Using-Satellite-Data-and-AI-ML
